@@ -40,7 +40,7 @@ export default function Footer() {
                     </div>
                     <div className="footer__content__menu">
                         <Link to="/">FAQ</Link>
-                        <Link to="/">Brand Guidelines</Link>
+                        <Link to="/">Ý nghĩa logo thương hiệu</Link>
                         <Link to="/">Top IMDB</Link>
                     </div>
                     <div className="footer__content__menu">
